@@ -48,7 +48,7 @@ main{
     max-width: 80rem;
     margin: 0 auto;
     border: solid .1rem transparent;
-    padding: 0.2rem;
+    padding: 0.3rem;
     box-shadow: 0 0 1.9rem #000000;
 }
 figure, main{
