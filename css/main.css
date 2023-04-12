@@ -40,20 +40,15 @@ header{
     background-color: var(--color-default);
     margin-bottom: 5rem;
 }
-header img{
-    display: inline-block;
-    transform: scale(.2);
-}
 header h1{
     color: var(--color-text-header);
     text-align: center;
 }
-
 main{
     max-width: 80rem;
     margin: 0 auto;
     border: solid .1rem transparent;
-    padding: 1rem;
+    padding: 0.2rem;
     box-shadow: 0 0 1.9rem #000000;
 }
 figure, main{
